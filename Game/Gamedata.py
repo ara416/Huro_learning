@@ -1,5 +1,5 @@
 import numpy as np
-from Automata import dfa 
+from Automata import dfa
 
 
 ni=10
